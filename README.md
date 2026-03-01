@@ -1,12 +1,32 @@
-# DSA_Cpp
-This repository is a comprehensive collection of Data Structures and Algorithms (DSA) implemented in C++. It serves as a technical resource for mastering algorithmic problem-solving, understanding memory management, and leveraging the Standard Template Library (STL) for high-performance computing.
+# 🚀 DSA in C++ | Mastering Logic
+Welcome to my personal journey through Data Structures and Algorithms! This repository is a collection of my solutions, optimized approaches, and conceptual notes as I sharpen my problem-solving skills.
 
-├── Basic /                    # Custom class implementations and use of if-else with some basic stuff in it.
- 
-├── Pattern Printing /         # Basic,Medium and some advanced level of questions on pattern printings..
+---
 
-├── Algorithms/                # Sorting, Searching, and DP logic.
+## 📊 Progress Tracker
+| Topic | Problems Solved | Status |
+| :--- | :---: | :--- |
+| 📌 Basic | 5 | Completed|
+| 🦋 Pattern Printing | 15 | Progress|
+| 🛠️ Arrays & Strings | 0 | Future |
+| 🔗 Linked Lists | 0 | Future |
+| 🌲 Trees & Graphs | 0 | Future |
+| ⚡ Dynamic Programming | 0 | Future |
 
-├── Competitive/               # Solutions to LeetCode/Codeforces problems.
+---
 
-└── README.md                  # Documentation and Topic Roadmap
+## 📂 Repository Structure
+Each folder contains the source code and a brief explanation of the approach:
+* `/Basic` - Basic about cpp. Use of if-else with some introduction to cpp language.
+* `/Pattern Printing ` - Some basic, medium and hard level pattern priting questions.
+* `/Arrays` - Slidng window, Two-pointer, etc.
+* `/Recursion` - Backtracking and Divide & Conquer.
+* `/Notes` - Quick revision sheets for complexity analysis.
+
+---
+
+## ⚙️ How to Run
+To compile any solution, use `g++`:
+```bash
+g++ Filename.cpp -o output
+./output
